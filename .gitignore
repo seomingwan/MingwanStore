@@ -8,7 +8,6 @@ renewal/
 renewal-hooks/
 *txt
 dist/
-tests/
 
 
 # local env files
